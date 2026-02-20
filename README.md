@@ -1,10 +1,10 @@
-# 🛍️ SMART_RETAIL_INTELLIGENCE_SYSTEM
+🛍️ **SMART_RETAIL_INTELLIGENCE_SYSTEM**
 ---
 
-## 🌍 **ENGLISH**
+🌍 **ENGLISH**
 ---
 
-## 📌 **Project Objective**
+📌 **Project Objective**
 ---
 
 Smart Retail Intelligence System is a data science project designed to analyze sales data and customer behavior of an e-commerce business in order to support data-driven decision making.
@@ -20,7 +20,7 @@ The project aims to build an analytical and prediction platform that transforms 
 
 ---
 
-## 🎯 **Project Scope**
+🎯 **Project Scope**
 ---
 
 This project will consist of the following main components:
@@ -37,7 +37,7 @@ This project will consist of the following main components:
 
 ---
 
-## 🛠️ **Technologies**
+🛠️ **Technologies**
 ---
 
 - Python  
@@ -51,14 +51,14 @@ This project will consist of the following main components:
 
 ---
 
-## 🚀 **Project Status**
+🚀 **Project Status**
 ---
 
 🟡 In Progress  
 
 ---
 
-## 📅 **Roadmap**
+📅 **Roadmap**
 ---
 
 - Data Analysis and Cleaning  
@@ -70,10 +70,10 @@ This project will consist of the following main components:
 
 ---
 
-# 🇹🇷 **TÜRKÇE**
+🇹🇷 **TÜRKÇE**
 ---
 
-## 📌 **Proje Amacı**
+📌 **Proje Amacı**
 ---
 
 Smart Retail Intelligence System, bir e-ticaret işletmesinin satış verilerini ve müşteri davranışlarını analiz ederek veri odaklı kararlar almasını sağlayan bir veri bilimi projesidir.
@@ -89,7 +89,7 @@ Proje, ham veriyi işleyip anlamlı çıktılara dönüştüren bir analitik ve 
 
 ---
 
-## 🎯 **Proje Kapsamı**
+🎯 **Proje Kapsamı**
 ---
 
 Bu proje aşağıdaki ana bileşenlerden oluşacaktır:
@@ -106,7 +106,7 @@ Bu proje aşağıdaki ana bileşenlerden oluşacaktır:
 
 ---
 
-## 🛠️ **Kullanılacak Teknolojiler**
+🛠️ **Kullanılacak Teknolojiler**
 ---
 
 - Python  
@@ -120,14 +120,14 @@ Bu proje aşağıdaki ana bileşenlerden oluşacaktır:
 
 ---
 
-## 🚀 **Proje Durumu**
+🚀 **Proje Durumu**
 ---
 
 🟡 Geliştirme Aşamasında (In Progress)  
 
 ---
 
-## 📅 **Yol Haritası**
+📅 **Yol Haritası**
 ---
 
 - Veri Analizi ve Temizleme  
